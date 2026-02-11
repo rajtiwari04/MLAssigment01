@@ -14,7 +14,7 @@ Regularization Techniques (Ridge and Lasso)
 
 This experiment helps in understanding model behavior, evaluation metrics, assumptions, and performance comparison using real-world data.
 
-🛠 Tools Used
+Tools Used
 
 Python
 
@@ -32,8 +32,7 @@ One continuous target variable
 
 The dataset was loaded, cleaned, and analyzed before applying regression models.
 
-Part A – Exploratory Data Analysis (EDA)
-
+PART A: EXPLORATORY DATA ANALYSIS
 In this section:
 
 Loaded the dataset and displayed basic information
