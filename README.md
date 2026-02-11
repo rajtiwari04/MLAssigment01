@@ -32,7 +32,7 @@ One continuous target variable
 
 The dataset was loaded, cleaned, and analyzed before applying regression models.
 
-PART A: EXPLORATORY DATA ANALYSIS
+####PART A: EXPLORATORY DATA ANALYSIS
 In this section:
 
 Loaded the dataset and displayed basic information
