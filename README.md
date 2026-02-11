@@ -22,7 +22,7 @@ Jupyter Notebook / Google Colab
 
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-📂 Dataset Description
+Dataset Description
 
 The dataset used in this assignment contains:
 
